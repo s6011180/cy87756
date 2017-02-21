@@ -1,0 +1,24 @@
+User-agent: Yandex
+Disallow: /wp-admin
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /comments
+Disallow: */trackback
+Disallow: */embed
+Disallow: */feed
+Disallow: /cgi-bin
+Disallow: *?s=
+Host: www.ichilov-international.com
+
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /comments
+Disallow: */trackback
+Disallow: */embed
+Disallow: */feed
+Disallow: /cgi-bin
+Disallow: *?s=
+
+Sitemap: https://www.ichilov-international.com/sitemap.xml

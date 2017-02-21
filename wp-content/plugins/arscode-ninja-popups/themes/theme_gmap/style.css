@@ -1,0 +1,38 @@
+.snp-theme-gmap{
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+	position: relative;
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	/*text-align: center;*/
+	color: #000;
+	background-color: #fff;
+	overflow: auto;
+}
+
+.snp-theme-gmap.snp-powered {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  bottom: -36px;
+  height: 46px;
+  padding: 10px 35px 0;
+  padding-top: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 36px;
+  background: #182945;
+  color: #fff;
+}
+.snp-theme-gmap.snp-content {
+}
+
+.snp-theme-gmap.snp-content-inner {
+	padding: 5px;
+}
